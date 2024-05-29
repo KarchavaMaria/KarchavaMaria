@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 My name is Maria! </h1>
 <h3 align="center">I'm student of Full-stack.</h3>
 
+![I am GitHub Readme Generator's creator](https://timeweb.com/ru/community/article/10/10bd40f4ead41ef70bf717fc8e8f9699.jpg)
+
 * 🌍  I'm based in Ukraine 🇺🇦
 * ✉️  You can contact me at [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://idkovalyova@gmail.com)
  [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/kovalyova454)
