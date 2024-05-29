@@ -2,7 +2,8 @@
 <h3 align="center">I'm student of Full-stack.</h3>
 
 * 🌍  I'm based in Ukraine 🇺🇦
-* ✉️  You can contact me at [idkovalyova@gmail.com](mailto:idkovalyova@gmail.com)
+* ✉️  You can contact me at [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://idkovalyova@gmail.com)
+ [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/kovalyova454)
 * 🧠  I'm learning of Full-stack
 
 ### Skills  
