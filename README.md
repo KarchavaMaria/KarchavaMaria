@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Maria! </h1>
 <h3 align="center">I'm student of Full-stack.</h3>
-  <img src="https://timeweb.com/ru/community/article/10/10bd40f4ead41ef70bf717fc8e8f9699.jpg"width="1000" height="200"alt="picture">
+  <img src="https://st4.depositphotos.com/10325396/21636/i/450/depositphotos_216360862-stock-photo-programming-code-abstract-technology-background.jpg"width="1000" height="200"alt="picture">
   
 * 🌍  I'm based in Ukraine 🇺🇦
 * ✉️  You can contact me at [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://idkovalyova@gmail.com)
