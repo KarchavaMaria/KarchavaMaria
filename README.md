@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 My name is Maria! </h1>
-<h3 align="center">I'm student of Full-stack, from Ukraine </h3>
+<h3 align="center">I'm student of Full-stack.</h3>
 
 * 🌍  I'm based in Ukraine 🇺🇦
 * ✉️  You can contact me at [idkovalyova@gmail.com](mailto:idkovalyova@gmail.com)
