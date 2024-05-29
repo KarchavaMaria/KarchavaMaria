@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 My name is Maria! </h1>
 <h3 align="center">I'm student of Full-stack.</h3>
-
+![I am GitHub Readme Generator's creator](https://st3.depositphotos.com/10325396/17238/i/450/depositphotos_172385004-stock-photo-programming-code-abstract-technology-background.jpg)
 * 🌍  I'm based in Ukraine 🇺🇦
 * ✉️  You can contact me at [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://idkovalyova@gmail.com)
  [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/kovalyova454)
