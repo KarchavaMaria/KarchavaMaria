@@ -1,12 +1,45 @@
-<h1 align="center">Hi 👋 My name is Maria! </h1>
-<h3 align="center">I'm student of Full-stack 👩‍💻 </h3>
+<h1 align="center">💐 Марія Карчава — Junior Full-Stack Developer </h1>
+<h3 align="center">Привіт 👋 </h3>
   <img src="https://st4.depositphotos.com/10325396/21636/i/450/depositphotos_216360862-stock-photo-programming-code-abstract-technology-background.jpg"width="900" height="200"alt="picture">
   
-* 🌍  I'm based in Ukraine 🇺🇦
-* 🧠  I'm learning of Full-stack 
+
 * ✉️  You can contact me at [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://idkovalyova@gmail.com)
  [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/kovalyova454)
 
+
+Я — **Full-Stack розробниця**, яка любить створювати сучасні, швидкі та зручні веб-додатки.  
+Маю досвід роботи з **React**, **Node.js**, **Express**, **MongoDB** і **MySQL**.  
+Шукаю можливість приєднатися до команди, де можна зростати та розвивати свої навички у справжніх проєктах 🚀
+
+---
+
+## 🧠 Мої технічні навички
+
+### Frontend:
+- HTML5, CSS3 (SASS / SCSS, TailwindCSS)
+- JavaScript (ES6+)
+- React, Redux Toolkit
+- Responsive / Adaptive design, Figma
+
+### Backend:
+- Node.js, Express.js
+- REST API, Authentication (JWT)
+- MongoDB, MySQL
+
+---
+
+## ✨ Про мене
+- Люблю чистий код і логічну архітектуру 🧩  
+- Працюю як самостійно, так і в команді  
+- У вільний час — експериментую з новими бібліотеками та UI-фреймворками  
+
+---
+
+## 📫 Як зв’язатися
+ [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://idkovalyova@gmail.com)
+ [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/kovalyova454)
+
+---
 
 ### Skills  
 
