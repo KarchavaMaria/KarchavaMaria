@@ -1,7 +1,7 @@
 <h1 align="center">💐 Марія Карчава — Junior Full-Stack Developer </h1>
 <h3 align="center">Привіт 👋 </h3>
   
-Я — **Full-Stack розробниця**,
+<p align="center">Я — **Full-Stack розробниця**,</p>
 яка любить створювати сучасні, швидкі та зручні веб-додатки.  
 Маю досвід роботи з **React**, **Node.js**, **Express**, **MongoDB** і **MySQL**.  
 Шукаю можливість приєднатися до команди, де можна зростати та розвивати свої навички у справжніх проєктах 🚀
@@ -68,6 +68,9 @@
   </a>
   <a href="https://www.sass.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="SASS" />
+  </a>
+  <a href="https://www.npm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/npm-colored.svg" width="36" height="36" alt="npm" />
   </a>
 </p>
 <a href="https://www.github.com/KovalyovaMaria" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/KovalyovaMaria?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
