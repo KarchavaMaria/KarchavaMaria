@@ -1,4 +1,4 @@
-<h1 align="center">💐 Марія Карчава — Junior Full-Stack Developer </h1>
+<h1 align="center"> 💃 Марія Карчава — Junior Full-Stack Developer </h1>
 <h3 align="center">Привіт 👋 </h3>
   
 <p align="center">Я — **Full-Stack розробниця**</p>
