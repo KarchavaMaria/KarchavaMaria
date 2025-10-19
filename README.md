@@ -1,10 +1,10 @@
-<h1 align="center"> 💃 Марія Карчава — Junior Full-Stack Developer </h1>
-<h3 align="center">Привіт 👋 </h3>
+<h1 align="center"> 💃 Maria Karchava — Junior Full-Stack Developer </h1>
+<h3 align="center">Hello👋 </h3>
   
-<p align="center">Я — **Full-Stack розробниця**</p>
-Яка любить створювати сучасні, швидкі та зручні веб-додатки.  
-Маю досвід роботи з **React**, **Node.js**, **Express**, **MongoDB** і **MySQL**.  
-Шукаю можливість приєднатися до команди, де можна зростати та розвивати свої навички у справжніх проєктах 🚀
+<p align="center">I am a **Full-Stack developer**</p>
+Who loves to create modern, fast and user-friendly web applications. 
+I have experience with **React**, **Node.js**, **Express**, **MongoDB** and **MySQL**. 
+I am looking for an opportunity to join a team where I can grow and develop my skills in real projects 🚀
 
 ---
 
@@ -23,14 +23,14 @@
 
 ---
 
-## ✨ Про мене
-- Люблю чистий код і логічну архітектуру 🧩  
-- Працюю як самостійно, так і в команді  
-- У вільний час — експериментую з новими бібліотеками та UI-фреймворками  
+## ✨ About me
+- I love clean code and logical architecture 🧩 
+- I work both independently and in a team 
+- In my free time — I experiment with new libraries and UI frameworks
 
 ---
 
-## 📫 Як зв’язатися
+## 📫 How to contact
  [![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://idkovalyova@gmail.com)
  [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/kovalyova454)
 
