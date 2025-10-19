@@ -8,7 +8,7 @@ I am looking for an opportunity to join a team where I can grow and develop my s
 
 ---
 
-## 🧠 Мої технічні навички
+## 🧠 My technical skills
 
 ### Frontend:
 - HTML5, CSS3 (SASS / SCSS, TailwindCSS)
