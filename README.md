@@ -1,7 +1,7 @@
-<h1 align="center"> 💃 Maria Karchava — Junior Full-Stack Developer </h1>
+<h1 align="center"> 💃 Maria Karchava — Junior Web Developer </h1>
 <h3 align="center">Hello👋 </h3>
   
-<p align="center">I am a **Full-Stack developer**</p>
+<p align="center">I am a **web-developer**</p>
 Who loves to create modern, fast and user-friendly web applications. 
 I have experience with **React**, **Node.js**, **Express**, **MongoDB** and **MySQL**. 
 I am looking for an opportunity to join a team where I can grow and develop my skills in real projects 🚀
